@@ -1,3 +1,6 @@
+#timecomplexity:O(n)
+#spacecomplexity:O(n)
+
 def getRange(lower, upper):
             if lower == upper:
                 return str(lower)
